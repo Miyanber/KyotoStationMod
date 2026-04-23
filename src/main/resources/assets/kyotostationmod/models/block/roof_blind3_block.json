@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "kyotostationmod:blocks/roof_blind3_block"
+  }
+}

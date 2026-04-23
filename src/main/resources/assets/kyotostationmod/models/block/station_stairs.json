@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "buttom": "kyotostationmod:blocks/floor_black_block1",
+    "top": "kyotostationmod:blocks/roof_white_block2",
+    "side": "kyotostationmod:blocks/wall_green_block"
+  }
+}

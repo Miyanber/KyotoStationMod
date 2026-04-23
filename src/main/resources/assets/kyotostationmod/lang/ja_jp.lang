@@ -1,0 +1,25 @@
+#京都駅MOD 日本語言語ファイル
+item.example_item.name=アイテム (機能なし)
+tile.wall_glay_block.name=灰色の壁
+tile.wall_black_block.name=黒色の壁
+tile.wall_green_block.name=緑色の壁
+tile.wall_white_block.name=白色の壁
+tile.wall_blue_block.name=青色の壁
+tile.concrete_g.name=KS コンクリートブロック
+tile.concrete_white.name=KS 白のコンクリート
+tile.roof_white_block.name=白色の屋根
+tile.floor_black_block1.name=黒色の床（縦）
+tile.floor_black_block2.name=黒色の床（横）
+tile.floor_black_tile.name=黒い床のタイル
+tile.roof_white_block1.name=白い屋根（縦）
+tile.roof_white_block2.name=白い屋根（横）
+tile.roof_blind_block1.name=ブラインドの屋根（縦）
+tile.roof_blind_block2.name=ブラインドの屋根（横）
+tile.station_stairs.name=駅の階段（未実装）
+tile.roof_blind2_block.name=ブラインドの屋根2（縦）
+tile.roof_blind2_block2.name=ブラインドの屋根2（横）
+tile.wall_blind_block.name=ブラインドの壁
+tile.roof_blind3_block.name=（未実装）
+tile.roof_blind3_block2.name=（未実装）
+tile.floor_black2_block.name=黒色の床2
+itemGroup.kyotostation_tab=KyotoStationMod

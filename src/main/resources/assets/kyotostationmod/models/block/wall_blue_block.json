@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "kyotostationmod:blocks/wall_blue_block"
+  }
+}

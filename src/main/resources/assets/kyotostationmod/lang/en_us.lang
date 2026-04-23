@@ -1,0 +1,25 @@
+#KyotoStationMod English Language File
+item.example_item.name=Example Item (No function)
+tile.wall_glay_block.name=Wall Gray Block (Misspelling)
+tile.wall_black_block.name=Wall Black Block
+tile.wall_green_block.name=Wall Green Block
+tile.wall_white_block.name=Wall White Block
+tile.wall_blue_block.name=Wall Blue Block
+tile.roof_white_block.name=Roof White Block
+tile.concrete_g.name=KS Concrete Block
+tile.concrete_white.name=KS Concrete White
+tile.floor_black_block1.name=Vertical Floor Black Block
+tile.floor_black_block2.name=Horizontal Floor Black Block
+tile.floor_black_tile.name=Floor Black Tile
+tile.roof_white_block1.name=Vertical Roof White Block
+tile.roof_white_block2.name=Horizontal Roof White Block
+tile.roof_blind_block1.name=Vertical Roof Blind Block
+tile.roof_blind_block2.name=Horizontal Roof Blind Block
+tile.station_stairs.name=Station Stairs (Unimplemented)
+tile.roof_blind2_block.name=Vertical Roof Blind Block2
+tile.roof_blind2_block2.name=Horizontal Roof Blind Block2
+tile.wall_blind_block.name=Wall Blind Block
+tile.roof_blind3_block.name=(Unimplemented)
+tile.roof_blind3_block2.name=(Unimplemented)
+tile.floor_black2_block.name=Floor Black Block2
+itemGroup.kyotostation_tab=KyotoStationMod
