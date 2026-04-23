@@ -1,4 +1,4 @@
-package com.miyanbers.kyotostation;
+package com.miyanber.kyotostation;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
@@ -8,6 +8,6 @@ public class BlockFloorBlack1 extends Block{
         super(Material.IRON);
         this.setRegistryName("kyotostationmod","floor_black_block1");
         this.setCreativeTab(CreativeTabKS.KYOTO_STATION);
-        this.setTranslationKey("floor_black_block1");
+        this.setUnlocalizedName("floor_black_block1");
     }
 }

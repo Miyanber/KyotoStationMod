@@ -1,4 +1,4 @@
-package com.miyanbers.kyotostation;
+package com.miyanber.kyotostation;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
@@ -8,6 +8,6 @@ public class BlockConcreteG extends Block {
         super(Material.IRON);
         this.setRegistryName("kyotostationmod","concrete_g");
         this.setCreativeTab(CreativeTabKS.KYOTO_STATION);
-        this.setTranslationKey("concrete_g");
+        this.setUnlocalizedName("concrete_g");
     }
 }

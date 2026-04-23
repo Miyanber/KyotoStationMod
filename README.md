@@ -1,2 +1,2 @@
-# KyotoStationMod
-‹ž“s‰w‚É‚ ‚è‚»‚¤‚ÈƒuƒƒbƒN‚ð’Ç‰Á‚·‚éMinecraft‚ÌMODB
+# KyotoStationMod
+äº¬éƒ½é§…ã«ã‚ã‚Šãã†ãªãƒ–ãƒ­ãƒƒã‚¯ã‚’è¿½åŠ ã™ã‚‹Minecraftã®MODã€‚

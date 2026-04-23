@@ -1,4 +1,4 @@
-package com.miyanbers.kyotostation;
+package com.miyanber.kyotostation;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
@@ -8,6 +8,6 @@ public class BlockWallGreen extends Block{
         super(Material.IRON);
         this.setRegistryName("kyotostationmod","wall_green_block");
         this.setCreativeTab(CreativeTabKS.KYOTO_STATION);
-        this.setTranslationKey("wall_green_block");
+        this.setUnlocalizedName("wall_green_block");
     }
 }
